@@ -1,2 +1,2 @@
 # Python-Assinment
-This Repository consist of learning Python in Hyper island of Sweden. I share the assignment and some python tips and tricks. 
+This Repository includes learning Python in Hyper island of Sweden. I share the assignment and some python tips and tricks.If you can like add some tricks in my file.
